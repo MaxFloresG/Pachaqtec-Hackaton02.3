@@ -1,1 +1,2 @@
 bot-ai==0.0.1
+Localization==0.1.7
